@@ -93,8 +93,6 @@ A knowledge-base chatbot using **Python, LangChain, RAG, OpenAI, and FastAPI** t
 #### 📄 [Automated Resume Screener & Candidate Ranker](#)
 An AI-powered tool that screens and ranks candidate resumes using **Python, LangChain, Sentence-Transformers, FastAPI, and Streamlit**.
 
-> 💡 *Update the links above (`#`) with your actual GitHub repository URLs.*
-
 ---
 
 ### 📜 Certifications
@@ -114,5 +112,5 @@ An AI-powered tool that screens and ranks candidate resumes using **Python, Lang
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pintusharma3&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PintuSharma33&style=flat-square&color=blue" alt="profile views" />
 </p>
