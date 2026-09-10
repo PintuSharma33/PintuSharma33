@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Engineer | Data Science & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/pintusharma33" target="_blank">
+  <a href="https://linkedin.com/in/PintuSharma33" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:glsharma7486@gmail.com">
